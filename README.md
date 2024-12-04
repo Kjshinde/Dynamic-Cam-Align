@@ -20,6 +20,21 @@ You can find the complete BOM [here](./BOM_dynamic_cam_aligne.csv).
 - [x] Find library to control servos	
 - [ ] Test reference code and control the servos  
 
+# Virtual environment
+- For Windows
+    - To make a virtual environment
+    ```powershell
+    python -m venv <path_to_your_environment_folder\name_of_environment>
+    ```
+    - To activate the environment
+    ```bash
+    .\<name_of_environment>\Scripts\activate
+    ```
+    -To Deactivate the environment
+    ```bash
+    Deactivate
+    ```
+
 ## References  
 1. [How Servo Motors Work (video)](https://www.youtube.com/watch?v=1WnGv-DPexc)  
 2. [Current Sourcing from the Power Pin of Raspberry Pi Zero](https://pinout.xyz/pinout/5v_power)  
