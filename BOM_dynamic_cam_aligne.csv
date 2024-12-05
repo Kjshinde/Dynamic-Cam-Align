@@ -1,6 +1,8 @@
-Parts,Quanitiy,Price 
-Raspberry Pi 0,1,
-Pi camera,1,
-Servo motor,3,
+Parts,Quanitiy,Price(per piece)
+Raspberry Pi 0,1,$21
+Pi camera,1,$14.99
+Servo motor,3,$16.46
 3-D printed parts,3,
+lithum-polymer battery 720mAh,2,$1.5
+LM2596 - volatage regulator,1, $1.4
 
