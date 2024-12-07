@@ -2,19 +2,22 @@
 
 
 ## Table of Contents  
-1. [Project Description](#project-motivation)  
+1. [Project Description](#project-motivation---statement-of-need)  
 2. [Power and Functional Block Diagram](#block-diagram)  
 3. [Bill of Materials](#bill-of-materials)  
 4. [Code](#code)  
 5. [Problems and Solutions](#problems-and-solutions)  
 6. [Acknowledgements](#acknowledgements)  
 7. [Useful Reading](#useful-reading)  
+8. [Demo video](#demo-video)
 
 ---
 
-## Project Motivation  
+## Project Motivation  / Statement of Need
 
-This project aims to enhance security and object-tracking capabilities. The system enables the tracking of a person or object within a 180-degree horizontal and 180-degree vertical field of view, ensuring comprehensive coverage and adaptability for various applications.  
+Traditional fixed-position cameras lack flexibility, leaving gaps in coverage and limiting their effectiveness in dynamic environments. The Dynamic Camera Project overcomes these challenges by enabling object tracking across a 180-degree horizontal and 180-degree vertical field of view, ensuring comprehensive and adaptable surveillance.
+
+This cost-effective system, powered by a Raspberry Pi Zero, servo motors, and OpenCV tracking algorithms, is ideal for applications like home security, robotics, and industrial automation. The project offers a modular, open-source solution for enhanced situational awareness and real-time tracking.
 
 ---
 
@@ -58,6 +61,11 @@ The finalized working code is available [here](./Code/Finalized_code/remote_dyna
     ```powershell  
     deactivate  
     ```  
+
+---
+
+## Demo Video
+- Checkout the demo video [here](https://youtu.be/tq0N1PE9opI)
 
 ---
 
