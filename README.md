@@ -1,6 +1,5 @@
 # Dynamic Camera  
 
-![Image of the Device](path/to/image)  
 
 ## Table of Contents  
 1. [Project Description](#project-motivation)  
