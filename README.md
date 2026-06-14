@@ -9,9 +9,16 @@
 5. [Problems and Solutions](#problems-and-solutions)  
 6. [Acknowledgements](#acknowledgements)  
 7. [Useful Reading](#useful-reading)  
-8. [Demo video](#demo-video)
+
 
 ---
+
+# Demo Vidoe
+
+
+https://github.com/user-attachments/assets/27c67cc1-793a-498e-bba8-6965016fc9bd
+
+
 
 ## Project Motivation  / Statement of Need
 
@@ -64,10 +71,6 @@ The finalized working code is available [here](./Code/Finalized_code/remote_dyna
 
 ---
 
-## Demo Video
-- Checkout the demo video [here](https://youtu.be/tq0N1PE9opI)
-
----
 
 ## Problems and Solutions  
 
